@@ -41,7 +41,7 @@ The full-screen navigation isn't just a menu — it’s an entrance to another l
 ## 🚀 Live Project
 
 Take a closer look:  
-👉 **[Launch HyperFade](https://your-vercel-url.vercel.app)**
+👉 **[Launch HyperFade]((https://hyper-fade.vercel.app/)**
 
 ---
 

@@ -55,7 +55,7 @@ The motion, the transitions, the responsiveness — everything reflects who I am
 ## 📫 Let’s Connect
 
 Interested in working together or just want to share feedback?  
-→ [nischintsingh.dev@gmail.com](mailto:nischintsingh.dev@gmail.com)
+→ [nischintsingh888@gmail.com](mailto:nischintsingh888@gmail.com)
 
 ---
 

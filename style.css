@@ -186,7 +186,7 @@ nav {
 #middle-footer p {
     font-family: myFont2;
     font-size: 1.5vw;
-    background: linear-gradient(100deg, black, #d0ddd08e);
+    background: linear-gradient(100deg, black, rgba(255, 255, 255, 0.781),#d0ddd08e);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

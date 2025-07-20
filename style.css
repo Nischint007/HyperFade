@@ -763,6 +763,7 @@ nav {
     opacity: 0;
     flex-direction: column;
     transition: none;
+    will-change: transform;
 }
 
 #cursor img {
@@ -1240,7 +1241,6 @@ nav {
     text-decoration: none;
     font-size: 1.5vw;
 }
-
 #container2-btn {
     width: 15vw;
     height: 7vh;
@@ -1272,7 +1272,7 @@ nav {
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 67%;
+    top: 67.5%;
     left: 76.5%;
     transform: translateY(-50%);
     gap: 1vw;
